@@ -1,0 +1,13 @@
+{
+  "columns": [
+    "age",
+    "educational-num",
+    "occupation",
+    "race",
+    "gender",
+    "capital-gain",
+    "capital-loss",
+    "hours-per-week",
+    "native-country"
+  ]
+}
